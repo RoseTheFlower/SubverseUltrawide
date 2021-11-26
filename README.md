@@ -13,8 +13,7 @@ All trainers based on CE components may trigger some anti-virus software.
 Tested on the latest GOG.com version at 2560x1080, 3840x1080, and 5760x1080.
 
 ![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/SubverseUltrawide/total?style=flat-square)
+![](preview.gif)
 
 ### Credits
 The field of view calculation formula implementation was based on killer-m's work.
-
-![](preview.gif)
